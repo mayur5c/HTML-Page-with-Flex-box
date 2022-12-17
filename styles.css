@@ -4,7 +4,6 @@ body{
   margin: 0;
 }
 
-/* ------------------------------------------------------ header and navbar----------------------------------------------  */
 header{
   position: sticky;
   top:0;
@@ -27,7 +26,6 @@ header{
 
 ul a{
   margin: 12px;
-  /* margin-right: 12px; */
   color:white;
   text-decoration: none;
   font-size: 1.25rem;
@@ -44,8 +42,6 @@ h4{
   margin: 0;
 }
 
-
-/* ------------------------------------------------------info and image section----------------------------------------------  */
 .learn-button button{
   padding: 12px 50px;
   background-color: black;
@@ -76,7 +72,7 @@ h4{
   font-size:1.25rem;
 }
 
-/* ------------------------------------------------------flex image galary section----------------------------------------------  */
+
 .flex-heading > h1{
   font-size: 2.0rem;
 }
@@ -90,7 +86,6 @@ h4{
   flex-wrap: wrap;
   justify-content: space-between;
   align-items: center;
-  /* border: 2px solid red; */
 }
 
 .item-img > img{
